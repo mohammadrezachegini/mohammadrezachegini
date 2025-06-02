@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hi there, I'm Reza Chegini!
 
-I'm a **junior DevOps and Cloud Developer** certified in AWS and GCP, passionate about cloud automation, backend development, and site reliability. I love building scalable systems and continuously learning new technologies.
+I'm a **junior DevOps, Cloud and Site Reliability Engineer** certified in AWS and GCP, passionate about cloud automation, backend development, and site reliability. I love building scalable systems and continuously learning new technologies.
 
 ---
 
