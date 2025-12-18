@@ -74,6 +74,10 @@ I'm a **junior DevOps, Cloud, and Site Reliability Engineer** certified in AWS a
    <a href="https://www.credly.com/badges/56fadf32-9767-45d1-8d72-f8b1fc667b48/">
     <img src="https://images.credly.com/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png" alt="LFCS: Linux Foundation Certified System Administrator" width="110" />
   </a>
+  
+  <a href="https://www.credly.com/badges/de8aaf05-7a90-4685-af55-ce723845d172">
+    <img src="https://images.credly.com/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width="110" />
+  </a>
   </a>
 </p>
 </p>
