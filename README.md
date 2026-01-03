@@ -52,10 +52,16 @@ I'm a **junior DevOps, Cloud, and Site Reliability Engineer** certified in AWS a
     <img src="https://images.credly.com/size/160x160/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Developer Associate" width="110" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/0acda545-636e-4410-a575-3b9a574abc74">
-    <img src="https://images.credly.com/size/160x160/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS SysOps Associate" width="110" />
+    <img src="https://images.credly.com/size/160x160/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS SysOps Associate" width="110" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/22dc929d-8158-40a0-94b0-3b16d71348bb">
-    <img src="https://images.credly.com/size/160x160/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS DevOps Professional" width="110" />
+    <img src="https://images.credly.com/size/160x160/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS DevOps Professional" width="110" />
+  </a>
+
+  
+
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/MohammadRezaGoodarzvandChegini-7513/A9D23CAC81E0387D?sharingId=BD742E3FB887C06D">
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Microsoft Certified: Azure Administrator Associate" width="110" />
   </a>
   <a href="https://www.credly.com/earner/earned/badge/9891dedd-af14-43c8-966c-7da75fcd79eb">
     <img src="https://images.credly.com/size/160x160/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png" alt="GCP DevOps Engineer" width="110" />
